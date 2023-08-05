@@ -1,3 +1,3 @@
 # References
 
-* octocat 1 Zakaria AIT ALI 😈
+* octocat 1: Zakaria AIT ALI 😈
